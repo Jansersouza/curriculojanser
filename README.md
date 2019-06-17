@@ -1,1 +1,1 @@
-# http://curriculojanser.github.io
+# http://curriculojanser
